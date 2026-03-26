@@ -1,14 +1,10 @@
-# 
-# 💫 Hi 👋, I'm Akansha Raikwar
+ # 💫 Hi 👋, I'm Akansha Raikwar
 **A passionate Java Developer**
 
 Email Me 👉 ✉️ **akansha.raikwar** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m fresher intern seeking a job.
 - 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
-- 📫 **How to reach me:** 
 - 😄 **Pronouns:** Akku
 - ⚡ **Fun fact:** I Love to learn innovative things that represent me unique😊😊
 
